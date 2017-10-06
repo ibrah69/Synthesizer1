@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="Button1">F Button</string>
+    <string name="Button2">Play Button </string>
+    <string name="Button3">S Button</string>
+    <string name="Button4">Twinkle Button</string>
+    <string name="Button5">Challenge 3</string>
+    <string name="Button6">Challenge 9</string>
+    <string name="Button7">Challenge 12</string>
+</resources>
+
